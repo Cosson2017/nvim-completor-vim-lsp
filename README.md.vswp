@@ -1,0 +1,5 @@
+vnote_backup_file_826537664 /home/lks/.config/nvim/plugged/nvim-completor-vim-lsp/README.md
+LSP source for nvim-completor
+=======================================
+
+fork from [asyncomplete-lsp.vim](https://github.com/prabirshrestha/asyncomplete-lsp.vim) and adapt nvim-completor
